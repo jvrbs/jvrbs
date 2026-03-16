@@ -9,6 +9,7 @@
   <img align="center" alt="Cris-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
   <img align="center" alt="Cris-Python" height="35" width="40" <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f8650e8d-6ed0-470b-876d-19b2e0bdcc6b" />
   <img align="center" alt="Cris-Java" height="35" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
+   <img align="center" alt="Cris-Spring" height="35" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
