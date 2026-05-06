@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6793F7&center=true&vCenter=true&width=435&lines=Jo%C3%A3o+V%C3%ADtor;Software+Developer+Student;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6793F7&center=true&vCenter=true&width=435&lines=Jo%C3%A3o+Vitor;Software+Developer+Student;Tech+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/jvrbs/">
