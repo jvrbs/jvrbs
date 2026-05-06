@@ -1,29 +1,52 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6793F7&center=true&vCenter=true&width=435&lines=Jo%C3%A3o+V%C3%ADtor;Software+Developer+Student;Tech+Enthusiast" alt="Typing SVG" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+João+Vitor.;Welcome+to+my+Github+profile!+" alt="Typing SVG" />
-</a>
-
-### Technologies and tools:
-
-<br>
-  <img align="center" alt="JS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="40" src="https://github.com/user-attachments/assets/b28cf1db-423b-4382-8ca1-cfd290ada0cd">
-  <img align="center" alt="Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
-  <img align="center" alt="Python" height="35" width="40" src="https://github.com/user-attachments/assets/f8650e8d-6ed0-470b-876d-19b2e0bdcc6b" />
-  <img align="center" alt="Java" height="35" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
-  <img align="center" alt="Spring" height="35" width="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
-  <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<br><br>
-
-### Contact
-
-<a href="https://www.linkedin.com/in/jvrbs/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a> 
-<a href="https://www.instagram.com/jv.ribas_/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jvrbs/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
+    </a>
+    <a href="https://www.instagram.com/jv.ribas_/">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 </div>
+
+### 🧩 Sobre Mim
+Sou um desenvolvedor em formação apaixonado por lógica e tecnologia. Atualmente focado em construir aplicações robustas e aprender algo novo todos os dias. Quando não estou codando, provavelmente estou estudando aberturas de xadrez ou jogando um FPS competitivo.
+
+---
+
+### 🚀 Stack Tecnológica
+
+**Front-end & Design**
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Back-end & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Ferramentas**
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+---
+
+### 🐍 Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
